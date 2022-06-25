@@ -23,8 +23,8 @@
                 <handle>0</handle>
                 <parentHandle>-1</parentHandle>
                 <localFrame>
-                    <position>0.644875 4.110665 4.172544</position>
-                    <quaternion>0.505869 0.861453 -0.038517 -0.022618</quaternion>
+                    <position>-6.500061 -0.486627 4.919965</position>
+                    <quaternion>-0.345762 -0.602521 -0.623888 -0.358024</quaternion>
                 </localFrame>
                 <assembling>
                     <localFrame>
@@ -1998,7 +1998,7 @@
                             <secmangulararaxisfrictionmodel>6</secmangulararaxisfrictionmodel>
                             <normalmangulararaxisfrictionmodel>6</normalmangulararaxisfrictionmodel>
                             <autosleepsteplivethreshold>10</autosleepsteplivethreshold>
-                            <materialuniqueid>2976</materialuniqueid>
+                            <materialuniqueid>763</materialuniqueid>
                             <pureshapesasconvex>false</pureshapesasconvex>
                             <convexshapesasrandom>false</convexshapesasrandom>
                             <randomshapesasterrain>false</randomshapesasterrain>
@@ -2031,7 +2031,7 @@
                 <handle>14</handle>
                 <parentHandle>13</parentHandle>
                 <localFrame>
-                    <position>0.000000 0.000000 -0.000000</position>
+                    <position>0.000000 0.000000 0.000000</position>
                     <quaternion>1.000000 0.000000 0.000000 0.000000</quaternion>
                 </localFrame>
                 <assembling>
@@ -2370,7 +2370,7 @@
                             <secmangulararaxisfrictionmodel>6</secmangulararaxisfrictionmodel>
                             <normalmangulararaxisfrictionmodel>6</normalmangulararaxisfrictionmodel>
                             <autosleepsteplivethreshold>10</autosleepsteplivethreshold>
-                            <materialuniqueid>2984</materialuniqueid>
+                            <materialuniqueid>764</materialuniqueid>
                             <pureshapesasconvex>false</pureshapesasconvex>
                             <convexshapesasrandom>false</convexshapesasrandom>
                             <randomshapesasterrain>false</randomshapesasterrain>
@@ -2632,7 +2632,7 @@
                             <secmangulararaxisfrictionmodel>6</secmangulararaxisfrictionmodel>
                             <normalmangulararaxisfrictionmodel>6</normalmangulararaxisfrictionmodel>
                             <autosleepsteplivethreshold>10</autosleepsteplivethreshold>
-                            <materialuniqueid>6</materialuniqueid>
+                            <materialuniqueid>765</materialuniqueid>
                             <pureshapesasconvex>false</pureshapesasconvex>
                             <convexshapesasrandom>false</convexshapesasrandom>
                             <randomshapesasterrain>false</randomshapesasterrain>
@@ -2894,7 +2894,7 @@
                             <secmangulararaxisfrictionmodel>6</secmangulararaxisfrictionmodel>
                             <normalmangulararaxisfrictionmodel>6</normalmangulararaxisfrictionmodel>
                             <autosleepsteplivethreshold>10</autosleepsteplivethreshold>
-                            <materialuniqueid>14</materialuniqueid>
+                            <materialuniqueid>766</materialuniqueid>
                             <pureshapesasconvex>false</pureshapesasconvex>
                             <convexshapesasrandom>false</convexshapesasrandom>
                             <randomshapesasterrain>false</randomshapesasterrain>
@@ -3045,7 +3045,7 @@
                 </flashing>
             </objectColor>
             <ik>
-                <maxStepSize>9.999999</maxStepSize>
+                <maxStepSize>9.999997</maxStepSize>
                 <weight>1.000000</weight>
             </ik>
             <dependency>
@@ -3687,7 +3687,7 @@
                             <secmangulararaxisfrictionmodel>6</secmangulararaxisfrictionmodel>
                             <normalmangulararaxisfrictionmodel>6</normalmangulararaxisfrictionmodel>
                             <autosleepsteplivethreshold>10</autosleepsteplivethreshold>
-                            <materialuniqueid>52</materialuniqueid>
+                            <materialuniqueid>767</materialuniqueid>
                             <pureshapesasconvex>false</pureshapesasconvex>
                             <convexshapesasrandom>false</convexshapesasrandom>
                             <randomshapesasterrain>false</randomshapesasterrain>
@@ -3838,7 +3838,7 @@
                 </flashing>
             </objectColor>
             <ik>
-                <maxStepSize>9.999999</maxStepSize>
+                <maxStepSize>9.999997</maxStepSize>
                 <weight>1.000000</weight>
             </ik>
             <dependency>
@@ -4178,7 +4178,7 @@
                             <secmangulararaxisfrictionmodel>6</secmangulararaxisfrictionmodel>
                             <normalmangulararaxisfrictionmodel>6</normalmangulararaxisfrictionmodel>
                             <autosleepsteplivethreshold>10</autosleepsteplivethreshold>
-                            <materialuniqueid>18</materialuniqueid>
+                            <materialuniqueid>768</materialuniqueid>
                             <pureshapesasconvex>false</pureshapesasconvex>
                             <convexshapesasrandom>false</convexshapesasrandom>
                             <randomshapesasterrain>false</randomshapesasterrain>
@@ -4329,7 +4329,7 @@
                 </flashing>
             </objectColor>
             <ik>
-                <maxStepSize>9.999999</maxStepSize>
+                <maxStepSize>9.999997</maxStepSize>
                 <weight>1.000000</weight>
             </ik>
             <dependency>
@@ -4669,7 +4669,7 @@
                             <secmangulararaxisfrictionmodel>6</secmangulararaxisfrictionmodel>
                             <normalmangulararaxisfrictionmodel>6</normalmangulararaxisfrictionmodel>
                             <autosleepsteplivethreshold>10</autosleepsteplivethreshold>
-                            <materialuniqueid>46</materialuniqueid>
+                            <materialuniqueid>769</materialuniqueid>
                             <pureshapesasconvex>false</pureshapesasconvex>
                             <convexshapesasrandom>false</convexshapesasrandom>
                             <randomshapesasterrain>false</randomshapesasterrain>
@@ -4820,7 +4820,7 @@
                 </flashing>
             </objectColor>
             <ik>
-                <maxStepSize>9.999999</maxStepSize>
+                <maxStepSize>9.999997</maxStepSize>
                 <weight>1.000000</weight>
             </ik>
             <dependency>
@@ -5252,7 +5252,7 @@
                             <secmangulararaxisfrictionmodel>6</secmangulararaxisfrictionmodel>
                             <normalmangulararaxisfrictionmodel>6</normalmangulararaxisfrictionmodel>
                             <autosleepsteplivethreshold>10</autosleepsteplivethreshold>
-                            <materialuniqueid>38</materialuniqueid>
+                            <materialuniqueid>770</materialuniqueid>
                             <pureshapesasconvex>false</pureshapesasconvex>
                             <convexshapesasrandom>false</convexshapesasrandom>
                             <randomshapesasterrain>false</randomshapesasterrain>
@@ -5649,7 +5649,7 @@
                 </flashing>
             </objectColor>
             <ik>
-                <maxStepSize>9.999999</maxStepSize>
+                <maxStepSize>9.999997</maxStepSize>
                 <weight>1.000000</weight>
             </ik>
             <dependency>
@@ -6173,7 +6173,7 @@
                             <secmangulararaxisfrictionmodel>6</secmangulararaxisfrictionmodel>
                             <normalmangulararaxisfrictionmodel>6</normalmangulararaxisfrictionmodel>
                             <autosleepsteplivethreshold>10</autosleepsteplivethreshold>
-                            <materialuniqueid>32</materialuniqueid>
+                            <materialuniqueid>771</materialuniqueid>
                             <pureshapesasconvex>false</pureshapesasconvex>
                             <convexshapesasrandom>false</convexshapesasrandom>
                             <randomshapesasterrain>false</randomshapesasterrain>
@@ -6324,7 +6324,7 @@
                 </flashing>
             </objectColor>
             <ik>
-                <maxStepSize>9.999999</maxStepSize>
+                <maxStepSize>9.999997</maxStepSize>
                 <weight>1.000000</weight>
             </ik>
             <dependency>
@@ -6664,7 +6664,7 @@
                             <secmangulararaxisfrictionmodel>6</secmangulararaxisfrictionmodel>
                             <normalmangulararaxisfrictionmodel>6</normalmangulararaxisfrictionmodel>
                             <autosleepsteplivethreshold>10</autosleepsteplivethreshold>
-                            <materialuniqueid>28</materialuniqueid>
+                            <materialuniqueid>772</materialuniqueid>
                             <pureshapesasconvex>false</pureshapesasconvex>
                             <convexshapesasrandom>false</convexshapesasrandom>
                             <randomshapesasterrain>false</randomshapesasterrain>
@@ -6815,7 +6815,7 @@
                 </flashing>
             </objectColor>
             <ik>
-                <maxStepSize>9.999999</maxStepSize>
+                <maxStepSize>9.999997</maxStepSize>
                 <weight>1.000000</weight>
             </ik>
             <dependency>
@@ -7155,7 +7155,7 @@
                             <secmangulararaxisfrictionmodel>6</secmangulararaxisfrictionmodel>
                             <normalmangulararaxisfrictionmodel>6</normalmangulararaxisfrictionmodel>
                             <autosleepsteplivethreshold>10</autosleepsteplivethreshold>
-                            <materialuniqueid>30</materialuniqueid>
+                            <materialuniqueid>773</materialuniqueid>
                             <pureshapesasconvex>false</pureshapesasconvex>
                             <convexshapesasrandom>false</convexshapesasrandom>
                             <randomshapesasterrain>false</randomshapesasterrain>
@@ -7306,7 +7306,7 @@
                 </flashing>
             </objectColor>
             <ik>
-                <maxStepSize>9.999999</maxStepSize>
+                <maxStepSize>9.999997</maxStepSize>
                 <weight>1.000000</weight>
             </ik>
             <dependency>
@@ -7738,7 +7738,7 @@
                             <secmangulararaxisfrictionmodel>6</secmangulararaxisfrictionmodel>
                             <normalmangulararaxisfrictionmodel>6</normalmangulararaxisfrictionmodel>
                             <autosleepsteplivethreshold>10</autosleepsteplivethreshold>
-                            <materialuniqueid>8</materialuniqueid>
+                            <materialuniqueid>774</materialuniqueid>
                             <pureshapesasconvex>false</pureshapesasconvex>
                             <convexshapesasrandom>false</convexshapesasrandom>
                             <randomshapesasterrain>false</randomshapesasterrain>
@@ -7889,7 +7889,7 @@
                 </flashing>
             </objectColor>
             <ik>
-                <maxStepSize>9.999999</maxStepSize>
+                <maxStepSize>9.999997</maxStepSize>
                 <weight>1.000000</weight>
             </ik>
             <dependency>
@@ -8241,7 +8241,7 @@
                 </flashing>
             </objectColor>
             <ik>
-                <maxStepSize>9.999999</maxStepSize>
+                <maxStepSize>9.999997</maxStepSize>
                 <weight>1.000000</weight>
             </ik>
             <dependency>
@@ -8581,7 +8581,7 @@
                             <secmangulararaxisfrictionmodel>6</secmangulararaxisfrictionmodel>
                             <normalmangulararaxisfrictionmodel>6</normalmangulararaxisfrictionmodel>
                             <autosleepsteplivethreshold>10</autosleepsteplivethreshold>
-                            <materialuniqueid>40</materialuniqueid>
+                            <materialuniqueid>775</materialuniqueid>
                             <pureshapesasconvex>false</pureshapesasconvex>
                             <convexshapesasrandom>false</convexshapesasrandom>
                             <randomshapesasterrain>false</randomshapesasterrain>
@@ -8732,7 +8732,7 @@
                 </flashing>
             </objectColor>
             <ik>
-                <maxStepSize>9.999999</maxStepSize>
+                <maxStepSize>9.999997</maxStepSize>
                 <weight>1.000000</weight>
             </ik>
             <dependency>
@@ -9084,7 +9084,7 @@
                 </flashing>
             </objectColor>
             <ik>
-                <maxStepSize>9.999999</maxStepSize>
+                <maxStepSize>9.999997</maxStepSize>
                 <weight>1.000000</weight>
             </ik>
             <dependency>
@@ -9670,7 +9670,7 @@
                             <secmangulararaxisfrictionmodel>6</secmangulararaxisfrictionmodel>
                             <normalmangulararaxisfrictionmodel>6</normalmangulararaxisfrictionmodel>
                             <autosleepsteplivethreshold>10</autosleepsteplivethreshold>
-                            <materialuniqueid>22</materialuniqueid>
+                            <materialuniqueid>776</materialuniqueid>
                             <pureshapesasconvex>false</pureshapesasconvex>
                             <convexshapesasrandom>false</convexshapesasrandom>
                             <randomshapesasterrain>false</randomshapesasterrain>
@@ -9932,7 +9932,7 @@
                             <secmangulararaxisfrictionmodel>6</secmangulararaxisfrictionmodel>
                             <normalmangulararaxisfrictionmodel>6</normalmangulararaxisfrictionmodel>
                             <autosleepsteplivethreshold>10</autosleepsteplivethreshold>
-                            <materialuniqueid>24</materialuniqueid>
+                            <materialuniqueid>777</materialuniqueid>
                             <pureshapesasconvex>false</pureshapesasconvex>
                             <convexshapesasrandom>false</convexshapesasrandom>
                             <randomshapesasterrain>false</randomshapesasterrain>
@@ -10194,7 +10194,7 @@
                             <secmangulararaxisfrictionmodel>6</secmangulararaxisfrictionmodel>
                             <normalmangulararaxisfrictionmodel>6</normalmangulararaxisfrictionmodel>
                             <autosleepsteplivethreshold>10</autosleepsteplivethreshold>
-                            <materialuniqueid>34</materialuniqueid>
+                            <materialuniqueid>778</materialuniqueid>
                             <pureshapesasconvex>false</pureshapesasconvex>
                             <convexshapesasrandom>false</convexshapesasrandom>
                             <randomshapesasterrain>false</randomshapesasterrain>
@@ -10456,7 +10456,7 @@
                             <secmangulararaxisfrictionmodel>6</secmangulararaxisfrictionmodel>
                             <normalmangulararaxisfrictionmodel>6</normalmangulararaxisfrictionmodel>
                             <autosleepsteplivethreshold>10</autosleepsteplivethreshold>
-                            <materialuniqueid>48</materialuniqueid>
+                            <materialuniqueid>779</materialuniqueid>
                             <pureshapesasconvex>false</pureshapesasconvex>
                             <convexshapesasrandom>false</convexshapesasrandom>
                             <randomshapesasterrain>false</randomshapesasterrain>
@@ -10718,7 +10718,7 @@
                             <secmangulararaxisfrictionmodel>6</secmangulararaxisfrictionmodel>
                             <normalmangulararaxisfrictionmodel>6</normalmangulararaxisfrictionmodel>
                             <autosleepsteplivethreshold>10</autosleepsteplivethreshold>
-                            <materialuniqueid>50</materialuniqueid>
+                            <materialuniqueid>780</materialuniqueid>
                             <pureshapesasconvex>false</pureshapesasconvex>
                             <convexshapesasrandom>false</convexshapesasrandom>
                             <randomshapesasterrain>false</randomshapesasterrain>
@@ -10980,7 +10980,7 @@
                             <secmangulararaxisfrictionmodel>6</secmangulararaxisfrictionmodel>
                             <normalmangulararaxisfrictionmodel>6</normalmangulararaxisfrictionmodel>
                             <autosleepsteplivethreshold>10</autosleepsteplivethreshold>
-                            <materialuniqueid>56</materialuniqueid>
+                            <materialuniqueid>781</materialuniqueid>
                             <pureshapesasconvex>false</pureshapesasconvex>
                             <convexshapesasrandom>false</convexshapesasrandom>
                             <randomshapesasterrain>false</randomshapesasterrain>
@@ -11242,7 +11242,7 @@
                             <secmangulararaxisfrictionmodel>6</secmangulararaxisfrictionmodel>
                             <normalmangulararaxisfrictionmodel>6</normalmangulararaxisfrictionmodel>
                             <autosleepsteplivethreshold>10</autosleepsteplivethreshold>
-                            <materialuniqueid>58</materialuniqueid>
+                            <materialuniqueid>782</materialuniqueid>
                             <pureshapesasconvex>false</pureshapesasconvex>
                             <convexshapesasrandom>false</convexshapesasrandom>
                             <randomshapesasterrain>false</randomshapesasterrain>
@@ -11504,7 +11504,7 @@
                             <secmangulararaxisfrictionmodel>6</secmangulararaxisfrictionmodel>
                             <normalmangulararaxisfrictionmodel>6</normalmangulararaxisfrictionmodel>
                             <autosleepsteplivethreshold>10</autosleepsteplivethreshold>
-                            <materialuniqueid>60</materialuniqueid>
+                            <materialuniqueid>783</materialuniqueid>
                             <pureshapesasconvex>false</pureshapesasconvex>
                             <convexshapesasrandom>false</convexshapesasrandom>
                             <randomshapesasterrain>false</randomshapesasterrain>
@@ -11766,7 +11766,7 @@
                             <secmangulararaxisfrictionmodel>6</secmangulararaxisfrictionmodel>
                             <normalmangulararaxisfrictionmodel>6</normalmangulararaxisfrictionmodel>
                             <autosleepsteplivethreshold>10</autosleepsteplivethreshold>
-                            <materialuniqueid>62</materialuniqueid>
+                            <materialuniqueid>784</materialuniqueid>
                             <pureshapesasconvex>false</pureshapesasconvex>
                             <convexshapesasrandom>false</convexshapesasrandom>
                             <randomshapesasterrain>false</randomshapesasterrain>
@@ -12028,7 +12028,7 @@
                             <secmangulararaxisfrictionmodel>6</secmangulararaxisfrictionmodel>
                             <normalmangulararaxisfrictionmodel>6</normalmangulararaxisfrictionmodel>
                             <autosleepsteplivethreshold>10</autosleepsteplivethreshold>
-                            <materialuniqueid>44</materialuniqueid>
+                            <materialuniqueid>785</materialuniqueid>
                             <pureshapesasconvex>false</pureshapesasconvex>
                             <convexshapesasrandom>false</convexshapesasrandom>
                             <randomshapesasterrain>false</randomshapesasterrain>
@@ -12612,9 +12612,9 @@ end
 function sysCall_init()
     -- do some initialization here
     simRemoteApi.start(19999)
-    joint1 = sim.getObject('/joint01')
-    joint2 = sim.getObject('/joint02')
-    joint3 = sim.getObject('/joint03')
+    joint1 = sim.getObject('/joint1')
+    joint2 = sim.getObject('/joint2')
+    joint3 = sim.getObject('/joint3')
     i = 0
     deg = math.pi/180
     print(i)
@@ -12653,6 +12653,7 @@ function sysCall_cleanup()
 end
 
 -- See the user manual or the available code snippets for additional callback functions and details
+
 ]]></scriptText>
     </script>
 </CoppeliaSim>
